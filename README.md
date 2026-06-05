@@ -10,7 +10,7 @@
 
 <br /><br />
 
-**Pennsylvania, US** · Student · Open to internships & research roles
+**Pennsylvania, USA** · Student 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-private%20repo-141414?style=for-the-badge&logo=vercel&logoColor=f1efeb)](https://github.com/psp5288/portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Parin%20Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-parinpatel/)
@@ -25,9 +25,8 @@
 I build software where technical depth meets careful execution — spanning **combinatorial optimisation**, **applied ML**, **distributed systems**, and **full-stack product engineering**. I'm drawn to work that balances rigour, benchmarks, and architectures that survive real-world constraints.
 
 ```text
-  focus     research · algorithms · intelligent systems · civic tech
-  status    looking for internship, research role, or ambitious engineering opportunity
-  based in  pennsylvania, united states
+  focus: research · algorithms · intelligent systems 
+  based in pennsylvania, united states
 ```
 
 ---
