@@ -32,23 +32,6 @@ I build software where technical depth meets careful execution — spanning **co
 
 ---
 
-### selected work
-
-| | project | what it is |
-|:---:|:---|:---|
-| 🔬 | [**PSDP Algorithm**](https://github.com/psp5288/portfolio) | Geometric TSP initialization + local search — low-latency, benchmark-driven |
-| 🧬 | [**AI-Guided Drug Delivery**](https://github.com/psp5288/portfolio) | Physics-informed ensemble models for biomedical parameter prediction |
-| 🏙️ | [**CityPulse**](https://github.com/psp5288/citypulse) | Policy intelligence platform — Kafka, WatsonX, swarm simulation, civic dashboards |
-| 👁️ | [**Eye of Horus – SPARKS**](https://github.com/psp5288/eye-of-horus-sparks) | Real-time crowd risk prediction with 10k-agent LLM simulation |
-| 📊 | [**Quant Portfolio Optimizer**](https://github.com/psp5288/quant-portfolio-optimizer) | MPT efficient frontier, Sharpe maximisation, S&P 500 backtesting |
-| 🏦 | [**Project Midas**](https://github.com/psp5288/portfolio) | Kafka + Spring Boot transaction microservice (JPMorgan virtual intern) |
-| 🧾 | [**LedgerPro**](https://github.com/psp5288/LedgerPro_webapp) | Multi-tenant accounting ledger for Indian fiscal workflows |
-| ✦ | [**Portfolio V1.0**](https://github.com/psp5288/portfolio) | Editorial scroll-driven portfolio — Next.js, GSAP, custom motion |
-
-<sub>→ full case studies live in the <a href="https://github.com/psp5288/portfolio">portfolio repo</a></sub>
-
----
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/psp5288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="psp5288" height="30" width="40" /></a>
